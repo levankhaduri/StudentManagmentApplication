@@ -10,11 +10,11 @@ To make it run you will need a database which you can create through script I in
 Code is pretty messy, had 3-4 days to do my project, so I rushed everything.
 
 
-========================================================Steps to run application correctly=============================================================
+==========Steps to run application correctly=========
 1. Create database with given script. script location : ((StudentManagmentApplication\DBScript.sql))
 2. Change connection string in SqlDatabase.h file which will be in ((StudentsDatabase\StudentsDatabase\SqlDatabase.h))
 
-===============================================================About Project=========================================================================
+===================About Project=====================
 
 User types: Student, Lecturer and Admin.
 
